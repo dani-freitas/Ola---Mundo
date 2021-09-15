@@ -1,2 +1,3 @@
-# Ola - Mundo
- primeiro repositorio versionado
+# Olá, Mundo
+ Primeiro Repositório Versionado
+Curso em Video
